@@ -17,3 +17,4 @@ class TestInheritance{
               d.draw();
        }
 }
+}
